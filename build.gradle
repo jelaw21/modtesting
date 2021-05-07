@@ -122,6 +122,7 @@ dependencies {
     runtimeOnly fg.deobf("mezz.jei:jei-1.16.5:7.6.4.90")
 
     compileOnly fg.deobf("redsnakegames.mcenderdragon:futurepack:1.16.4-31.1.8243:api")
+    runtimeOnly fg.deobf("redsnakegames.mcenderdragon:futurepack:1.16.4-31.1.8243")
 }
 //https://modmaven.dev/redsnakegames.mcenderdragon.futurepack:1.16.4-31.1.8243:futurepack-1.16.4-31.1.8243-api.jar
 //https://modmaven.dev/redsnakegames/mcenderdragon/futurepack/1.16.4-31.1.8243/futurepack-1.16.4-31.1.8243-api.jar
